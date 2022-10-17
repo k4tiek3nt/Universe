@@ -1,0 +1,24 @@
+name: Saturn
+star_id = 1
+galaxy_ID = 1
+namesake: The planet is named for the Roman god of agriculture and wealth, who was also the father of Jupiter. 
+
+description: Saturn is the farthest planet from Earth discovered by the unaided human eye and the second-largest planet in our solar system. Like fellow gas giant Jupiter, it's a massive ball made mostly of hydrogen and helium. Saturn is not the only planet to have rings, but none are as spectacular or as complex.
+
+pop_culture: Perhaps the most iconic of all the planets in our solar system, Saturn provides a backdrop for numerous science fiction stories, movies, TV shows, comics, and video games. In Tim Burton's film "Beetlejuice," a dusty, fictional Saturn is populated by giant sandworms.
+
+has_life = 0/false
+is_spherical = 1/true
+potential_for_life = Saturn's environment is not conducive to life as we know it. The temperatures, pressures, and materials that characterize this planet are most likely too extreme and volatile for organisms, but the same is not true of some of its many moons. Satellites like Enceladus and Titan, home to internal oceans, could possibly support life.
+
+age_in_millions_of_years = 4500
+planet_type = Gas Giant
+distance_from_earth_au = 8.5
+orbits_around = the Sun
+number_of_moons = 82
+has_rings = 1/true
+
+size_in_miles = 74898
+main_source_url (text) = 
+https://solarsystem.nasa.gov/planets/saturn/overview/
+https://solarsystem.nasa.gov/planets/saturn/in-depth/

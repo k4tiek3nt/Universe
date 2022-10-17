@@ -1,0 +1,22 @@
+name: Mars
+star_id = 1
+galaxy_id = 1
+namesake: Mars was named by the ancient Romans for their god of war because its reddish color was reminiscent of blood. 
+
+description: Mars is no place for the faint-hearted. It’s dry, rocky, and bitter cold. 
+
+pop_culture: In the late 1800s when people first observed the canal-like features on Mars' surface. This led to numerous stories about Martians, some of whom invade Earth, like in the 1938 radio drama, "The War of the Worlds." 
+
+has_life = 0/false
+is_spherical = 1/true
+
+potential_for_life = Scientists don't expect to find living things currently thriving on Mars. Instead, they're looking for signs of life that existed long ago, when Mars was warmer and covered with water. 
+
+age_in_millions_of_years = 4500
+planet_type = Terrestrial
+distance_from_earth_au = 0.5
+orbits_around = the Sun
+number_of_moons = 2
+has_rings = 0/false
+size = 4228
+main_source_url (text) = https://solarsystem.nasa.gov/planets/mars/in-depth/

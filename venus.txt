@@ -1,0 +1,23 @@
+name: Venus
+star_id = 1
+galaxy_id = 1
+namesake: Venus, the third brightest object after the Sun and Moon, was named after the Roman goddess of love and beauty.
+
+description: It's a cloud-swaddled planet named for a love goddess. Venus is often called "Earth’s twin" because they’re similar in size and structure, but Venus has extreme surface heat and a dense, toxic atmosphere.
+
+pop_culture: Because it’s so bright and easy to see in the sky, Venus has played a role in popular culture since ancient times, inspiring writing and song: It was called the most beautiful star in the sky by Homer, author of "The Iliad" and "The Odyssey" – two of the oldest and most important works in Greek literature. 
+
+has_life = 0/false
+is_spherical = 1/true
+potential_for_life = No findings provide compelling evidence for the existence of life in Venus’ clouds. 
+
+age_in_millions_of_years = 4600
+planet_type = Terrestrial
+distance_from_earth_au = 0.3
+orbits_around = the Sun
+number_of_moons = 0
+has_rings = 0/false
+size_in_miles = 7521
+main_source_url (text) = 
+https://solarsystem.nasa.gov/planets/venus/overview/
+https://solarsystem.nasa.gov/planets/venus/in-depth/

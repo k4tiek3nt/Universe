@@ -1,0 +1,20 @@
+name: Eris
+star_id = 1
+galaxy_id = 1
+namesake: Eris is named for the ancient Greek goddess of discord and strife. 
+description: Eris triggered a debate in the scientific community that led to the International Astronomical Union's decision in 2006 to clarify the definition of a planet. Pluto, Eris, and other similar objects are now classified as dwarf planets. 
+pop_culture: Dysnomia (Eris' moon) has been named after the Greek goddess of lawlessness. 
+has_life = 0/false
+is_spherical = 1/true
+potential_for_life = The surface of Eris is extremely cold, so it seems unlikely that life could exist there. 
+age_in_millions_of_years = 4500
+planet_type = Dwarf
+distance_from_earth_au = 67
+orbits_around = the Sun
+number_of_moons = 1
+has_rings = 0/false
+size_in_miles = 1445
+main_source_url (text) = 
+https://solarsystem.nasa.gov/planets/dwarf-planets/eris/overview/
+https://solarsystem.nasa.gov/planets/dwarf-planets/eris/in-depth/
+https://galaxy101.com/eris-facts/

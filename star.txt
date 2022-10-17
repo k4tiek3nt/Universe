@@ -1,0 +1,72 @@
+star:
+name varchar(30)
+star_id int serial primary key
+galaxy_id int
+size_in_tril_miles int
+solar_mass int
+star_type varchar(50)
+constellation varchar(30)
+description (text) unique
+distance_from_earth_au (numeric)
+source_urls (text)
+
+
+name = The Sun
+galaxy_id = 1
+size_in_tril_miles = 9
+solar_mass = 1
+star_type = Yellow Dwarf
+constellation = None
+description = The Sun is a yellow dwarf star, a hot ball of glowing gases at the heart of our solar system. Its gravity holds everything from the biggest planets to tiny debris in its orbit.
+distance_from_earth_au = 1
+source_urls = https://starlust.org/the-biggest-stars-in-the-universe/ https://solarsystem.nasa.gov/solar-system/sun/overview/ https://planetseducation.com/mass-of-sun/
+
+name = UY Scuti
+galaxy_id = 1
+size_in_tril_miles = 1476000
+solar_mass = 23
+star_type = Extreme Red Hypergiant or Red Supergiant
+constellation = Scutum
+description = A hypergiant is a rare type of star with an extremely high luminosity, mass, size and mass loss because of its extreme stellar winds. UY Scuti is also a pulsating semi-regular variable star.
+distance_from_earth_au = 600790232
+source_urls = https://starlust.org/the-biggest-stars-in-the-universe/
+
+name = V766 Centauri Aa
+galaxy_id = 1
+size_in_tril_miles = 960
+solar_mass = 13
+star_type = Yellow Hypergiant
+constellation = Centaurus
+description = This star is located just outside of Centaurus. It is slightly Southwest of Beta Centauri and is about 21% cooler than the Sun.
+distance_from_earth_au = 739920602
+source_urls = https://starlust.org/the-biggest-stars-in-the-universe/ https://journalofcosmology.com/biggest-stars-in-the-universe/
+
+name = KY Cygni
+galaxy_id = 1
+size_in_tril_miles = 1270000
+solar_mass = 25
+star_type = Red Supergiant
+constellation = Cygnus
+description = KY Cygni is a red supergiant discovered in 1930.
+distance_from_earth_au = 316205385
+source_urls = https://starlust.org/the-biggest-stars-in-the-universe/ https://largest.org/nature/stars/
+
+name = AH Scorpii
+galaxy_id = 1
+size_in_tril_miles = 1219000
+solar_mass = NULL
+star_type = Red Supergiant
+constellation = Scorpius
+description = AH Scorpii is not part of the Scorpius constellation outline but is within the borders. The star can not be seen by the naked eye, you need a telescope to see it. As no probes have been sent the solar mass is unknown.
+distance_from_earth_au = 67035542
+source_urls = https://starlust.org/the-biggest-stars-in-the-universe/ https://www.universeguide.com/star/84071/ahscorpii
+
+name = W Cephei
+galaxy_id = 1
+size_in_tril_miles = 1150000
+solar_mass = 13
+star_type = Orange-red Supergiant
+constellation = Cepheus
+description = While W Cephei was cataloged in 1896, it wasn’t known to be an eclipsing binary until 1936.
+distance_from_earth_au = 103134814
+source_urls = https://starlust.org/the-biggest-stars-in-the-universe/

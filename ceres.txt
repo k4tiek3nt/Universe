@@ -1,0 +1,21 @@
+name: Ceres
+star_id = 1
+galaxy_id = 1
+namesake: Ceres is named for the Roman goddess of corn and harvests. The word cereal comes from the same name. 
+
+description: Dwarf planet Ceres is the largest object in the asteroid belt between Mars and Jupiter, and it's the only dwarf planet located in the inner solar system. 
+
+pop_culture: In the PC Game Descent, one of the secret levels takes place on Ceres. 
+
+has_life = 0/false
+is_spherical = 1/true
+potential_for_life = Ceres has something a lot of other planets don't: water. If anything does live on Ceres, it's likely to be very small microbes similar to bacteria. If Ceres does not have living things today, there may be signs it harbored life in the past.
+
+age_in_millions_of_years = 4500
+planet_type = Dwarf
+distance_from_earth_au = 1.8
+orbits_around = the Sun
+number_of_moons = 0
+has_rings = 0/false
+size_in_miles = 590
+main_source_url (text) = 

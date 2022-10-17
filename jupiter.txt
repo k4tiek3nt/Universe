@@ -1,0 +1,24 @@
+name: Jupiter
+star_id = 1
+galaxy_id = 1
+namesake: Jupiter, being the biggest planet, gets its name from the king of the ancient Roman gods. 
+
+description: Jupiter is more than twice as massive as all the other planets combined. Jupiter's stripes and swirls are actually cold, windy clouds of ammonia and water, floating in an atmosphere of hydrogen and helium. Jupiter’s iconic Great Red Spot is a giant storm bigger than Earth that has raged for hundreds of years. 
+
+pop_culture: Jupiter was a notable destination in the Wachowski siblings’ science fiction spectacle "Jupiter Ascending," while various Jovian moons provide settings for "Cloud Atlas," "Futurama," "Power Rangers,"  "Halo," and many others.
+
+has_life = 0/false
+is_spherical = 1/true
+potential_for_life = Jupiter’s environment is probably not conducive to life as we know it. However, the same is not true of some of its many moons. Europa is one of the likeliest places to find life elsewhere in our solar system. There is evidence of a vast ocean just beneath its icy crust, where life could possibly be supported. 
+
+age_in_millions_of_years = 4500
+planet_type = Gas Giant
+distance_from_earth_au = 4.2
+orbits_around = the Sun
+number_of_moons = 79
+has_rings = 1/true
+
+size_in_miles = 88846
+main_source_url (text) = 
+https://solarsystem.nasa.gov/planets/jupiter/overview/
+https://solarsystem.nasa.gov/planets/jupiter/in-depth/

@@ -1,0 +1,24 @@
+name: Mercury
+star_id = 1
+galaxy_id = 1
+namesake: Mercury is appropriately named for the swiftest of the ancient Roman gods.
+
+description: Its the smallest planet in our solar system, nearest to the Sun, and is only slightly larger than Earth's Moon.  
+
+pop_culture: Scores of science fiction writers have been inspired by Mercury, including Isaac Asimov, C. S. Lewis, Ray Bradbury, Arthur C. Clarke, and H. P. Lovecraft.
+
+has_life = 0/false
+is_spherical = 1/true
+
+potential_for_life = Mercury's environment is not conducive to life as we know it. The temperatures and solar radiation are most likely too extreme for organisms to adapt. 
+
+age_in_millions_of_years = 4500
+planet_type = Terrestrial
+distance_from_earth_au = 0.6
+orbits_around = the Sun
+number_of_moons = 0
+has_rings = 0/false
+size_in_miles = 3032
+
+source_urls (text) = https://solarsystem.nasa.gov/planets/mercury/overview/
+https://solarsystem.nasa.gov/planets/mercury/in-depth/ 

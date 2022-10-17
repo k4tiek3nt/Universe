@@ -1,0 +1,20 @@
+name: Makemake
+star_id = 1
+galaxy_id = 1
+namesake: Makemake was named after the Rapanui god of fertility. 
+description: Makemake is located in the Kuiper Belt, a donut-shaped region of icy bodies beyond the orbit of Neptune.
+pop_culture: It was nicknamed as Easter bunny before being officially named.
+has_life = 0/false
+is_spherical = 1/true
+potential_for_life = The surface of Makemake is extremely cold, so it seems unlikely that life could exist there. 
+age_in_millions_of_years = 4500
+planet_type = Dwarf
+distance_from_earth_au = 44.8
+orbits_around = the Sun
+number_of_moons = 1
+has_rings = 0/false
+size_in_miles = 891
+main_source_url (text) = 
+https://solarsystem.nasa.gov/planets/dwarf-planets/makemake/overview/
+https://solarsystem.nasa.gov/planets/dwarf-planets/makemake/in-depth/
+https://galaxy101.com/makemake-facts/

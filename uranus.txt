@@ -1,0 +1,25 @@
+name: Uranus
+star_id = 1
+galaxy_id = 1
+namesake: William Herschel tried unsuccessfully to name his discovery Georgium Sidus after King George III. Instead, the planet was named for Uranus, the Greek god of the sky, as suggested by Johann Bode. 
+
+description: Uranus is a very cold and windy ice giant surrounded by 13 faint rings and 27 small moons. It rotates at a nearly 90-degree angle from the plane of its orbit. This unique tilt makes Uranus appear to spin sideways, orbiting the Sun like a rolling ball. 
+
+pop_culture: The radioactive element uranium was named after Uranus when it was discovered in 1789, just eight years after the planet was discovered.
+
+has_life = 0/false
+is_spherical = 1/true
+potential_for_life = Uranus' environment is not conducive to life as we know it. The temperatures, pressures, and materials that characterize this planet are most likely too extreme and volatile for organisms to adapt. 
+
+age_in_millions_of_years = 4500
+planet_type = Ice Giant
+distance_from_earth_au = 18.8
+orbits_around = the Sun
+number_of_moons = 27
+has_rings = 1/true
+
+
+size_in_miles = 31763
+main_source_url (text) = 
+https://solarsystem.nasa.gov/planets/uranus/overview/
+https://solarsystem.nasa.gov/planets/uranus/in-depth/

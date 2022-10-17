@@ -1,0 +1,24 @@
+name: Neptune
+star_id = 1
+galaxy_id = 1
+namesake: Neptune was the first planet located through mathematical calculations. Using predictions made by Urbain Le Verrier, Johann Galle discovered the planet in 1846. The planet is named after the Roman god of the sea, as suggested by Le Verrier. 
+
+description: Dark, cold, and whipped by supersonic winds, ice giant Neptune is more than 30 times as far from the Sun as Earth. Its the only planet in our solar system not visible to the naked eye. In 2011 Neptune completed its first 165-year orbit since its discovery in 1846. 
+
+pop_culture: Even though Neptune is the farthest planet from our Sun, it's a frequent stop in pop culture and fiction. "Dr. Who" fans will remember that an episode entitled "Sleep No More" is set on a space station orbiting Neptune. 
+
+has_life = 0/false
+is_spherical = 1/true
+potential_for_life = Neptune's environment is not conducive to life as we know it. The temperatures, pressures, and materials that characterize this planet are most likely too extreme and volatile for organisms to adapt.
+
+age_in_millions_of_years = 4500
+planet_type = Ice Giant
+distance_from_earth_au = 29.1
+orbits_around = the Sun
+number_of_moons = 14
+has_rings = 1/true
+
+size_in_miles = 30775
+main_source_url (text) = 
+https://solarsystem.nasa.gov/planets/neptune/overview/
+https://solarsystem.nasa.gov/planets/neptune/in-depth/

@@ -1,0 +1,59 @@
+asteroid:
+name
+asteroid_id
+distance_from_earth_au (numeric) Not null Unique
+age_in_millions_of_years (int) not null
+description (text) 
+orbits_around varchar(30)
+star_id int foreign key to star
+galaxy_id int foreign key to galaxy
+size_in_miles int
+source_urls (text)
+
+Asteroid table >=  three rows
+
+name Vesta 
+distance_from_earth_au 1.362
+age_in_millions_of_years 4500
+description = Vesta is the brightest asteroid visible from Earth. It was discovered by the German astronomer Heinrich Wilhelm Matthias Olbers on 29 March 1807 and is named after Vesta, the virgin goddess of home and hearth from Roman mythology.
+orbits_around the Sun
+planet_id 
+galaxy_id 1
+size_in_miles 326
+source_urls https://en.wikipedia.org/wiki/List_of_exceptional_asteroids#Largest_by_diameter https://en.wikipedia.org/wiki/4_Vesta
+
+name Pallas
+distance_from_earth_au 1.773
+age_in_millions_of_years 4500
+description When Pallas was discovered by the German astronomer Heinrich Wilhelm Matthäus Olbers on 28 March 1802, it was considered to be a planet, as were other asteroids in the early 19th century. 
+orbits_around 
+planet_id 
+galaxy_id 1
+size_in_miles 319
+source_urls
+https://en.wikipedia.org/wiki/List_of_exceptional_asteroids#Largest_by_diameter
+https://en.wikipedia.org/wiki/2_Pallas
+
+name Interamnia
+distance_from_earth_au 2.062
+age_in_millions_of_years 4500
+description 704 Interamnia is a large F-type asteroid  discovered on 2 October 1910 by Vincenzo Cerulli. It was named after the Latin name for Teramo, Italy, where Cerulli worked. 
+orbits_around 
+planet_id 
+galaxy_id 1
+size_in_miles 205
+source_urls
+https://en.wikipedia.org/wiki/List_of_exceptional_asteroids#Largest_by_diameter
+https://en.wikipedia.org/wiki/704_Interamnia
+
+name Hygiea 
+distance_from_earth_au 2.139
+age_in_millions_of_years 4500
+description Hygiea is a major asteroid and possible dwarf planet located in the main asteroid belt. It is the largest of the dark C-type asteroids with a carbonaceous surface.  Annibale de Gasparis discovered Hygiea on 12 April 1849.
+orbits_around 
+planet_id 
+galaxy_id 1
+size_in_miles 270
+source_urls
+https://en.wikipedia.org/wiki/List_of_exceptional_asteroids#Largest_by_diameter
+https://en.wikipedia.org/wiki/10_Hygiea

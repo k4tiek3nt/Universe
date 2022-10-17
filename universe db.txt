@@ -1,0 +1,93 @@
+Instructions
+For this project, you need to log in to PostgreSQL:
+psql --username=freecodecamp --dbname=postgres in the terminal. 
+
+Notes:
+If you leave your virtual machine, your database may not be saved. You can make a dump of it by entering pg_dump -cC --inserts -U freecodecamp universe > universe.sql in a bash terminal (not the psql one). It will save the commands to rebuild your database in universe.sql. The file will be located where the command was entered. If it's anything inside the project folder, the file will be saved in the VM. You can rebuild the database by entering psql -U postgres < universe.sql in a terminal where the .sql file is.
+
+If you are saving your progress on freeCodeCamp.org, after getting all the tests to pass, follow the instructions above to save a dump of your database. Save the universe.sql file in a public repository and submit the URL to it on freeCodeCamp.org.
+
+You should use the INT data type for at least two columns that are not a primary or foreign key.
+
+asteroid:
+name
+asteroid_id
+distance_from_earth_au (numeric) Not null Unique
+age_in_millions_of_years (int) not null
+description (text) 
+orbits_around varchar(30)
+star_id int foreign key to star
+galaxy_id int foreign key to galaxy
+size_in_miles int
+source_urls (text)
+
+Asteroid table >=  three rows
+
+galaxy:
+name
+galaxy_id
+description (text) unique
+galaxy_type varchar(30) spiral, lenticular, elliptical, irregular not null
+distance_from_earth_au (numeric)
+number_of_planets int not null
+size_in_miles int
+source_urls (text)
+
+The galaxy table >= six rows
+
+Astronomers estimate that there is roughly one exoplanet per star in our galaxy. Of course, some stars have many planets – our own Sun has eight. And some stars have none. But if a star lives long enough, forming planets seems to be the rule, rather than the exception. https://astronomy.com/news/2020/02/how-many-planets-are-there-in-the-universe
+
+
+star:
+name varchar(30)
+star_id int serial primary key
+galaxy_id int
+size_in_tril_miles int
+solar_mass int
+star_type varchar(50)
+constellation varchar(30)
+description (text) unique
+distance_from_earth_au (numeric)
+source_urls (text)
+
+The star table >= six rows
+
+Mercury, Venus, Earth, Mars, Ceres, Jupiter, Saturn, 
+Uranus, Neptune, Pluto, Haumea, Makemake, Eris
+
+planet:
+name varchar
+planet_id
+star_id
+galaxy_id
+namesake (text)
+description (text)
+pop_culture (text) 
+has_life (boolean) not null
+is_spherical (boolean) not null
+potential_for_life (text) 
+age_in_millions_of_years (int) not null
+planet_type varchar(30) 
+distance_from_earth_au (numeric) not null Unique
+orbits_around varchar(30)
+number_of_moons int 
+has_rings (boolean) not null
+size_in_miles int
+source_urls (text)
+
+The planet table >=  12 rows
+
+moon:
+name
+moon_id
+description (text) not null Unique
+age_in_millions_of_years (int)
+distance_from_earth_au (numeric)
+orbits_around varchar(30) not null
+planet_id
+star_id
+galaxy_id
+size_in_miles int
+source_urls (text)
+
+The moon table >=  20 rows

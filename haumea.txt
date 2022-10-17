@@ -1,0 +1,24 @@
+name: Haumea
+star_id = 1
+galaxy_id = 1
+namesake: Haumea is named after the Hawaiian goddess of fertility. 
+
+description: Originally designated 2003 EL61 (and nicknamed Santa by one discovery team), Haumea is located in the Kuiper Belt, a donut-shaped region of icy bodies beyond the orbit of Neptune. 
+
+pop_culture: Astronomers think Haumea may have crashed into another large object a long time ago. It is possible that pieces left over from this collision came together to form Haumea's moons. If so, the scientific story matches the myth. The "children" (moons) of Haumea did indeed "spring forth from" the "body" of their "mother" (the dwarf planet). 
+
+has_life = 0/false
+is_spherical = 0/false
+potential_for_life = Haumea is extremely cold and doesn't appear to have conditions suitable for life. 
+
+age_in_millions_of_years = 4500
+planet_type = Dwarf
+distance_from_earth_au = 42
+orbits_around = the Sun
+number_of_moons = 2
+has_rings = 1/true
+size_in_miles = 1218
+main_source_url (text) = 
+https://solarsystem.nasa.gov/planets/dwarf-planets/haumea/overview/
+https://solarsystem.nasa.gov/planets/dwarf-planets/haumea/in-depth/
+https://www.windows2universe.org/?page=/mythology/planets/dwarf_planets/haumea.html

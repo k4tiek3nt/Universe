@@ -1,0 +1,23 @@
+name: Pluto
+star_id = 1
+galaxy_id = 1
+namesake: Pluto is the only world (so far) named by an 11-year-old girl. In 1930, Venetia Burney of Oxford, England, suggested to her grandfather that the new discovery be named for the Roman god of the underworld. He forwarded the name to the Lowell Observatory and it was selected. 
+
+description: Pluto is a complex and mysterious world with mountains, valleys, plains, craters, and maybe glaciers. Discovered in 1930, Pluto was long considered our solar system's ninth planet. But after the discovery of similar intriguing worlds deeper in the distant Kuiper Belt, icy Pluto was reclassified as a dwarf planet. 
+
+pop_culture: The Disney cartoon character Pluto, Mickey's faithful dog, made his debut in 1930, the same year Tombaugh discovered the dwarf planet. 
+
+has_life = 0/false
+is_spherical = 1/true
+potential_for_life = The surface of Pluto is extremely cold, so it seems unlikely that life could exist there. At such cold temperatures, water, which is vital for life as we know it, is essentially rock-like. Pluto's interior is warmer, however, and some think there could even be an ocean deep inside. 
+
+age_in_millions_of_years = 4500
+planet_type = Dwarf
+distance_from_earth_au = 38
+orbits_around = the Sun
+number_of_moons = 5
+has_rings = 0/false
+size_in_miles = 1433
+main_source_url (text) = 
+https://solarsystem.nasa.gov/planets/dwarf-planets/pluto/overview/
+https://solarsystem.nasa.gov/planets/dwarf-planets/pluto/in-depth

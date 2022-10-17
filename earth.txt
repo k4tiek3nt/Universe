@@ -1,0 +1,24 @@
+name: Earth
+star_id = 1
+galaxy_id = 1
+namesake:  All of the planets, except for Earth, were named after Greek and Roman gods and goddesses. The name Earth is a Germanic word, which simply means “the ground” and is at least 1,000 years old. 
+
+description: While Earth is only the fifth largest planet in the solar system, it is the only world in our solar system with liquid water on the surface and is the only place we know of so far that’s inhabited by living things.  
+
+pop_culture: Storytellers explore the nature of our planet and possible alternate realities in many books, movies, and television shows. 
+
+has_life = 1/true
+is_spherical = 1/true
+
+potential_for_life = Earth has a very hospitable temperature and mix of chemicals that have made life abundant here. Most notably, Earth is unique in that most of our planet is covered in liquid water.
+
+age_in_millions_of_years = 4500
+planet_type = Terrestrial
+distance_from_earth_au = 0
+orbits_around = the Sun
+number_of_moons = 1
+has_rings = 0/false
+size_in_miles = 7926
+
+main_source_url (text) = https://solarsystem.nasa.gov/planets/earth/overview/
+https://solarsystem.nasa.gov/planets/earth/in-depth/
