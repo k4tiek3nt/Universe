@@ -1,47 +1,58 @@
 name = Milky Way
-description = Our own galaxy. It is said to look like a band of light.
-galaxy_type = Spiral
-distance_from_earth_au = 0
 number_of_planets = 1000000
-size_in_miles_x_mil = 5800 
+size_in_miles_x_mil = 5800
+distance_from_earth_au = 0
+description = Our own galaxy. It is said to look like a band of light.
+has_life = true
+is_dwarf = false
+galaxy_type = Spiral
 source_urls = https://littleastronomy.com/galaxy-names/, https://nineplanets.org/questions/how-many-planets-are-in-the-milky-way/, https://exoplanets.nasa.gov/blog/1563/our-milky-way-galaxy-how-big-is-space/
 
 name = The Sagittarius Dwarf Spheroidal Galaxy
-description = The galaxy's official discovery was made in 1994 by Gerry Gilmore and Mike Irwin, and it was described as the Milky Way’s nearest neighbor. The galaxy’s stars appear yellowish.
-galaxy_type = Dwarf Elliptical
-distance_from_earth_au = 512252724
 number_of_planets_x_mil = 0
 size_in_miles_x_mil = 587862537
+description = The galaxy's official discovery was made in 1994 by Gerry Gilmore and Mike Irwin, and it was described as the Milky Way’s nearest neighbor. The galaxy’s stars appear yellowish.
+has_life = false
+is_dwarf = true
+galaxy_type = Dwarf Elliptical
+distance_from_earth_au = 512252724
 source_urls = https://www.worldatlas.com/articles/galaxies-nearest-to-the-earth.html, https://en.wikipedia.org/wiki/Sagittarius_Dwarf_Spheroidal_Galaxy
 
 name = Ursa Major II Dwarf
-description = The Ursa Major II Dwarf is a faint galaxy, and its luminosity is even lesser than that of some stars such as the Milky Way’s Canopus. These stars have been theorized to be some of the first stars that formed the universe.
-galaxy_type = Dwarf Spheroidal
-distance_from_earth_au  = 619762556
 number_of_planets_x_mil = 0
 size_in_miles_x_mil = 383286374
+distance_from_earth_au  = 619762556
+description = The Ursa Major II Dwarf is a faint galaxy, and its luminosity is even lesser than that of some stars such as the Milky Way’s Canopus. These stars have been theorized to be some of the first stars that formed the universe.
+has_life = false
+is_dwarf = true
+galaxy_type = Dwarf Spheroidal
 source_urls = https://www.worldatlas.com/articles/galaxies-nearest-to-the-earth.html https://beyond-the-edge.fandom.com/wiki/Ursa_Major_II_Dwarf
 
 name = Large Magellanic Cloud
-description = Although the galaxy had been observed by medieval astronomers, its discovery is credited to Ferdinand Magellan who first wrote about it in 1519. It is visible to the naked eye and is notable for its wealth in gas and dust which facilitate vigorous star formation.
-galaxy_type = Dwarf Irregular
-distance_from_earth_au  = 103082956
 number_of_planets_x_mil = 0
 size_in_miles_x_mil = 189291737
+distance_from_earth_au  = 103082956
+description = Although the galaxy had been observed by medieval astronomers, its discovery is credited to Ferdinand Magellan who first wrote about it in 1519. It is visible to the naked eye and is notable for its wealth in gas and dust which facilitate vigorous star formation.
+has_life = false
+is_dwarf = true
+galaxy_type = Dwarf Irregular
 source_urls = https://www.worldatlas.com/articles/galaxies-nearest-to-the-earth.html https://en.wikipedia.org/wiki/Large_Magellanic_Cloud
 
 name = Boötes Dwarf Galaxy
-description = It is one of the least luminous galaxies ever discovered. In fact, when it was discovered in 2006, it was the single least luminous galaxy ever seen.
-galaxy_type = Dwarf Spheroidal
-distance_from_earth_au  = 124584922
 number_of_planets_x_mil = 0
 size_in_miles_x_mil = 907071895
+distance_from_earth_au  = 124584922
+description = It is one of the least luminous galaxies ever discovered. In fact, when it was discovered in 2006, it was the single least luminous galaxy ever seen.
+has_life = false
+is_dwarf = true
+galaxy_type = Dwarf Spheroidal
 source_urls = https://www.worldatlas.com/articles/galaxies-nearest-to-the-earth.html https://www.constellation-guide.com/bootes-dwarf-galaxy-bootes-i/ https://www.universeguide.com/galaxy/bootesdwarfgalaxy
 
 name = Small Magellanic Cloud
-description = The galaxy is located across both the constellations of Tucana and part of Hydrus, appearing as a faint hazy patch resembling a detached piece of the Milky Way.
-galaxy_type = Dwarf Irregular
-distance_from_earth_au = 130276619
 number_of_planets_x_mil = 0
 size_in_miles_x_mil = 111106020
+distance_from_earth_au = 130276619description = The galaxy is located across both the constellations of Tucana and part of Hydrus, appearing as a faint hazy patch resembling a detached piece of the Milky Way.
+has_life = false
+is_dwarf = true
+galaxy_type = Dwarf Irregular
 source_urls = https://www.worldatlas.com/articles/galaxies-nearest-to-the-earth.html https://en.wikipedia.org/wiki/Small_Magellanic_Cloud
